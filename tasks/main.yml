@@ -1,0 +1,3 @@
+---
+- name: task that will raise "yum used in place of yum module"
+  command: yum install curl
